@@ -1,10 +1,10 @@
 # Hi, I'm Victor! 👋
 
-I'm a software engineer who works primarily with **Python**, building real-world applications, REST APIs, and integrations. I also enjoy bringing ideas to life with modern web technologies.
+I'm a software engineer who works primarily with **Python**, building applications, REST APIs, and integrations. I also enjoy bringing ideas to life with modern web technologies and contributing to open-source projects.
 
 And sometimes, I just scrape the web for fun. 🕷️
 
-### I Work With
+### Some Things I Work With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -31,4 +31,4 @@ And sometimes, I just scrape the web for fun. 🕷️
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vihumelo&layout=compact&theme=transparent&langs_count=6)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=vihumelo&layout=compact&theme=transparent&langs_count=6)
