@@ -30,6 +30,8 @@ And sometimes, I just scrape the web for fun. 🕷️
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Axiom](https://img.shields.io/badge/Axiom-5B5BD6?style=flat-square&logoColor=white)
 
 ### Most Used Languages
 
